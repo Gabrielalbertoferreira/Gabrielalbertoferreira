@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Oi, me chamo Gabriel 👋
-
-### Sobre mim
+# Eai, meu nome é Gabriel 👋
 
 💻 Eu sou um desenvolvedor Front-End
 
